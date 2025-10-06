@@ -1,0 +1,16 @@
+{
+  "os":  "Linux-6.8.0-85-generic-x86_64-with-glibc2.35",
+  "python":  "CPython 3.10.12",
+  "startedAt":  "2025-10-06T18:00:31.711719Z",
+  "program":  "/home/karolina/studia/gsn/lab1/introduction.ipynb",
+  "codePath":  "lab1/introduction.ipynb",
+  "codePathLocal":  "introduction.ipynb",
+  "git":  {
+    "remote":  "git@github.com:kapiotrow/gsn.git"
+  },
+  "email":  "kapiotrow@student.agh.edu.pl",
+  "root":  "/home/karolina/studia/gsn/lab1",
+  "host":  "karolina-dell",
+  "executable":  "/home/karolina/studia/gsn/venv/bin/python",
+  "writerId":  "o6flc3kijqeqdwb53t3i3pp2jkrvhsz9"
+}
